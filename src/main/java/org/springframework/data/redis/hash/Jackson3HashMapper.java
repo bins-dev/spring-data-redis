@@ -466,7 +466,7 @@ public class Jackson3HashMapper implements HashMapper<Object, String, Object> {
 
 		@Override
 		public String getModuleName() {
-			return "spring-data-hash-mapper-module";
+			return "spring-data-redis-hash-mapper-module";
 		}
 
 		@Override
