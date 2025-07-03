@@ -153,7 +153,6 @@
 		<dependency>
 			<groupId>tools.jackson.core</groupId>
 			<artifactId>jackson-databind</artifactId>
-			<version>3.0.0-rc5</version>
 			<optional>true</optional>
 		</dependency>
 
